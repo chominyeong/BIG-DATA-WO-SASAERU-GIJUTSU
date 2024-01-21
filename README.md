@@ -1,0 +1,2 @@
+# BIG-DATA-WO-SASAERU-GIJUTSU
+빅데이터를 지탱하는 기술
